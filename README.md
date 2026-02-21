@@ -1,78 +1,57 @@
-# 🏢 Zarasana Admin Account
+# Zarasana
 
-This GitHub account (**`zarasana-admin`**) is the **official administrative and ownership account** for **zarasana.com** and its engineering organization **Zarasana Labs**.
+This GitHub account is the official workspace for **zarasana.com**.
 
-This account does **not** host personal projects or standalone repositories.
-
----
-
-## 🧭 Purpose of This Account
-
-The `zarasana-admin` account exists to:
-
-- Own and manage **Zarasana Labs** GitHub Organization
-- Act as a **neutral, company-controlled identity**
-- Ensure long-term access, security, and continuity
-- Separate **personal developer identity** from **business ownership**
-
-> This account represents the **company**, not an individual.
+All SaaS products, internal tools, experimental builds, and production systems under the Zarasana brand are developed and maintained here.
 
 ---
 
-## 🏗️ Where the Actual Work Lives
+## Purpose
 
-All professional codebases, client projects, and maintained systems are hosted under:
+Zarasana operates as a product-focused engineering lab building:
 
-👉 **Zarasana Labs Organization**  
-🔗 https://github.com/zarasana-labs
+- SaaS applications  
+- Internal systems  
+- Client-facing platforms  
+- Experimental web products  
+- Scalable frontend and full stack architectures  
 
-If you are looking for:
-- Client websites
-- Production applications
-- Company-maintained repositories
-
-You should navigate to **Zarasana Labs**, not this profile.
+This account serves as the central hub for all Zarasana-owned codebases.
 
 ---
 
-## 👤 Founder & Creator
+## What You’ll Find Here
 
-Zarasana was founded and created by  
-**[@AnmolDotX](https://github.com/AnmolDotX)**
+Repositories under this profile may include:
 
-This admin account exists **by design** to ensure:
-- Business-grade governance
-- Professional access control
-- Scalability as the team grows
+- Production SaaS projects  
+- Web platforms built with modern frameworks  
+- Performance-focused frontend systems  
+- Tooling and automation  
+- Ongoing product experiments  
 
----
-
-## 🔐 Why No Repositories Here?
-
-This is intentional.
-
-- No experiments
-- No personal code
-- No client repos
-
-This account functions purely as:
-- Owner
-- Administrator
-- Gatekeeper
-
-All meaningful development happens inside the organization.
+All development reflects practical engineering decisions centered around scalability, maintainability, and performance.
 
 ---
 
-## 📬 Official Contact
+## Founder
 
-For business or technical inquiries:
+Zarasana was founded and is operated by  
+[@AnmolDotX](https://github.com/AnmolDotX)
 
-- 📧 contact@zarasana.com  
-- 📧 support@zarasana.com  
+This account exists to:
+
+- Separate company projects from personal repositories  
+- Maintain structured ownership of product code  
+- Ensure long-term continuity as Zarasana grows  
 
 ---
 
-**Clarity over clutter.**  
-**Structure over shortcuts.**  
-— *Zarasana*
+## Contact
+
+contact@zarasana.com  
+support@zarasana.com  
+
+---
+
+Build deliberately. Ship responsibly. Scale thoughtfully.
